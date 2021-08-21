@@ -1,0 +1,17 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;    
+    background-color: sandybrown;
+}
+
+#player {
+    margin: 10px;
+}
+
+p {
+    text-align: center;
+}
